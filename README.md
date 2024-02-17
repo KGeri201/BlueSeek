@@ -1,4 +1,4 @@
-<!--- <img src="AlarmClock.svg" alt="alarm clock" height="200"/> --->
+<!--- <img src="BlueSeek.svg" alt="alarm clock" height="200"/> --->
 
 # BlueSeek
 An Open-Source, cheap AirTag like Bluetooth tracker.
